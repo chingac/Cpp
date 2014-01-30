@@ -1,0 +1,17 @@
+a88463334
+ned flanders
+2
+comp1510 90
+comp2510 85
+a11111111
+homer simpson
+3
+comp2510 25
+comp2525 60
+comp3512 45
+a22222222
+sakuragi simpson
+3
+comp2511 95
+comp2521 90
+comp3511 95
